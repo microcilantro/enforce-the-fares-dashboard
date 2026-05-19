@@ -3,6 +3,8 @@
 A mobile-friendly static dashboard for the Enforce the Fares campaign, hosted on
 GitHub Pages.
 
+Live site: https://microcilantro.github.io/enforce-the-fares-dashboard/
+
 ## Updating the data
 
 1. Replace `data/dashboard.xlsx` with the new spreadsheet (same sheet names).
