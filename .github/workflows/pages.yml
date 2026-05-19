@@ -30,14 +30,21 @@ jobs:
       - name: Convert spreadsheet to JSON
         run: python scripts/convert.py
 
-      - name: Disable Jekyll
-        run: touch .nojekyll
+      - name: Stage site
+        run: |
+          mkdir -p _site/assets _site/data
+          cp index.html _site/
+          cp assets/* _site/assets/
+          cp data/data.json _site/data/
+          touch _site/.nojekyll
 
       - uses: actions/configure-pages@v5
+        with:
+          enablement: true
 
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: .
+          path: _site
 
   deploy:
     needs: build
