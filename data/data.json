@@ -1,0 +1,1914 @@
+{
+  "intro": {
+    "title": "LA Metro Fare Evasion Dashboard\n   By Alex Davis        March 2026",
+    "blurb": "Below is a data-backed estimate of fare evasion on LA Metro, created as part of the Enforce the Fares campaign. Between 2017 and 2020, LA Metro's security department quietly ratcheted down onboard fare checks from around 600,000 a month to just 5,000. Fare evasion skyrocketed, and now, more than half of boardings are unpaid. This policy change cratered fare revenue and worsened safety, but it's not too late to reverse course. To learn more about our campaign to bring back fare checks, visit www.enforcethefares.org."
+  },
+  "bus": [
+    {
+      "route": "G Line",
+      "apc_boardings": 4023007,
+      "adjusted_boardings": 3709292.232,
+      "paid_entries": 723702,
+      "evasion_rate": 0.8048948547,
+      "notes": "The fare total for the G Line is calculated by adding together the Station Fare Counts because on the G Line, fares are paid offboard."
+    },
+    {
+      "route": "601.0",
+      "apc_boardings": 119845,
+      "adjusted_boardings": 110499.4666,
+      "paid_entries": 29781,
+      "evasion_rate": 0.7304873868,
+      "notes": ""
+    },
+    {
+      "route": "154.0",
+      "apc_boardings": 214834,
+      "adjusted_boardings": 198081.2083,
+      "paid_entries": 61323,
+      "evasion_rate": 0.6904148529,
+      "notes": ""
+    },
+    {
+      "route": "74.0",
+      "apc_boardings": 91659,
+      "adjusted_boardings": 84511.41565,
+      "paid_entries": 26928,
+      "evasion_rate": 0.6813684898,
+      "notes": ""
+    },
+    {
+      "route": "754.0",
+      "apc_boardings": 4254701,
+      "adjusted_boardings": 3922918.695,
+      "paid_entries": 1281222,
+      "evasion_rate": 0.6734008274,
+      "notes": ""
+    },
+    {
+      "route": "204.0",
+      "apc_boardings": 7344834,
+      "adjusted_boardings": 6772082.6,
+      "paid_entries": 2268895,
+      "evasion_rate": 0.6649634782,
+      "notes": ""
+    },
+    {
+      "route": "720.0",
+      "apc_boardings": 6233186,
+      "adjusted_boardings": 5747121.1,
+      "paid_entries": 2036312,
+      "evasion_rate": 0.645681383,
+      "notes": ""
+    },
+    {
+      "route": "207.0",
+      "apc_boardings": 8260287,
+      "adjusted_boardings": 7616148.42,
+      "paid_entries": 2911295,
+      "evasion_rate": 0.6177470764,
+      "notes": ""
+    },
+    {
+      "route": "J Line",
+      "apc_boardings": 4847233,
+      "adjusted_boardings": 4469244.949,
+      "paid_entries": 1786266,
+      "evasion_rate": 0.6003204075,
+      "notes": ""
+    },
+    {
+      "route": "53.0",
+      "apc_boardings": 3635071,
+      "adjusted_boardings": 3351607.547,
+      "paid_entries": 1351789,
+      "evasion_rate": 0.5966744373,
+      "notes": ""
+    },
+    {
+      "route": "4.0",
+      "apc_boardings": 7943896,
+      "adjusted_boardings": 7324429.644,
+      "paid_entries": 3202056,
+      "evasion_rate": 0.5628252088,
+      "notes": ""
+    },
+    {
+      "route": "18.0",
+      "apc_boardings": 6508534,
+      "adjusted_boardings": 6000997.416,
+      "paid_entries": 2674049,
+      "evasion_rate": 0.5543992415,
+      "notes": ""
+    },
+    {
+      "route": "117.0",
+      "apc_boardings": 2753973,
+      "adjusted_boardings": 2539217.719,
+      "paid_entries": 1158460,
+      "evasion_rate": 0.5437728748,
+      "notes": ""
+    },
+    {
+      "route": "51.0",
+      "apc_boardings": 5703856,
+      "adjusted_boardings": 5259068.343,
+      "paid_entries": 2438486,
+      "evasion_rate": 0.5363273795,
+      "notes": ""
+    },
+    {
+      "route": "16.0",
+      "apc_boardings": 6406634,
+      "adjusted_boardings": 5907043.595,
+      "paid_entries": 2763128,
+      "evasion_rate": 0.5322316561,
+      "notes": ""
+    },
+    {
+      "route": "45.0",
+      "apc_boardings": 4179859,
+      "adjusted_boardings": 3853912.887,
+      "paid_entries": 1807093,
+      "evasion_rate": 0.5311017522,
+      "notes": ""
+    },
+    {
+      "route": "115.0",
+      "apc_boardings": 3745786,
+      "adjusted_boardings": 3453688.973,
+      "paid_entries": 1639626,
+      "evasion_rate": 0.5252537177,
+      "notes": ""
+    },
+    {
+      "route": "20.0",
+      "apc_boardings": 2862204,
+      "adjusted_boardings": 2639008.847,
+      "paid_entries": 1258141,
+      "evasion_rate": 0.5232524509,
+      "notes": ""
+    },
+    {
+      "route": "210.0",
+      "apc_boardings": 4352659,
+      "adjusted_boardings": 4013237.914,
+      "paid_entries": 1918442,
+      "evasion_rate": 0.5219715249,
+      "notes": ""
+    },
+    {
+      "route": "66.0",
+      "apc_boardings": 4002195,
+      "adjusted_boardings": 3690103.156,
+      "paid_entries": 1783296,
+      "evasion_rate": 0.5167354611,
+      "notes": ""
+    },
+    {
+      "route": "40.0",
+      "apc_boardings": 4328513,
+      "adjusted_boardings": 3990974.823,
+      "paid_entries": 1936273,
+      "evasion_rate": 0.5148370797,
+      "notes": ""
+    },
+    {
+      "route": "244.0",
+      "apc_boardings": 546801,
+      "adjusted_boardings": 504161.3654,
+      "paid_entries": 246565,
+      "evasion_rate": 0.5109403121,
+      "notes": ""
+    },
+    {
+      "route": "233.0",
+      "apc_boardings": 4108894,
+      "adjusted_boardings": 3788481.75,
+      "paid_entries": 1854653,
+      "evasion_rate": 0.5104495356,
+      "notes": ""
+    },
+    {
+      "route": "602.0",
+      "apc_boardings": 150179,
+      "adjusted_boardings": 138468.0161,
+      "paid_entries": 68583,
+      "evasion_rate": 0.504701505,
+      "notes": ""
+    },
+    {
+      "route": "105.0",
+      "apc_boardings": 4525785,
+      "adjusted_boardings": 4172863.519,
+      "paid_entries": 2080156,
+      "evasion_rate": 0.5015039455,
+      "notes": ""
+    },
+    {
+      "route": "603.0",
+      "apc_boardings": 1239413,
+      "adjusted_boardings": 1142763.364,
+      "paid_entries": 576911,
+      "evasion_rate": 0.4951614498,
+      "notes": ""
+    },
+    {
+      "route": "460.0",
+      "apc_boardings": 1416659,
+      "adjusted_boardings": 1306187.691,
+      "paid_entries": 665713,
+      "evasion_rate": 0.4903389425,
+      "notes": ""
+    },
+    {
+      "route": "111.0",
+      "apc_boardings": 4553520,
+      "adjusted_boardings": 4198435.739,
+      "paid_entries": 2141299,
+      "evasion_rate": 0.4899769502,
+      "notes": ""
+    },
+    {
+      "route": "211.0",
+      "apc_boardings": 90549,
+      "adjusted_boardings": 83487.97364,
+      "paid_entries": 42660,
+      "evasion_rate": 0.489028202,
+      "notes": ""
+    },
+    {
+      "route": "209.0",
+      "apc_boardings": 97369,
+      "adjusted_boardings": 89776.14888,
+      "paid_entries": 46426,
+      "evasion_rate": 0.4828693302,
+      "notes": ""
+    },
+    {
+      "route": "230.0",
+      "apc_boardings": 990036,
+      "adjusted_boardings": 912832.825,
+      "paid_entries": 472565,
+      "evasion_rate": 0.4823093703,
+      "notes": ""
+    },
+    {
+      "route": "152.0",
+      "apc_boardings": 3309208,
+      "adjusted_boardings": 3051155.399,
+      "paid_entries": 1583987,
+      "evasion_rate": 0.4808566616,
+      "notes": ""
+    },
+    {
+      "route": "240.0",
+      "apc_boardings": 3823373,
+      "adjusted_boardings": 3525225.726,
+      "paid_entries": 1833573,
+      "evasion_rate": 0.4798707536,
+      "notes": ""
+    },
+    {
+      "route": "81.0",
+      "apc_boardings": 3155341,
+      "adjusted_boardings": 2909286.974,
+      "paid_entries": 1523129,
+      "evasion_rate": 0.4764596915,
+      "notes": ""
+    },
+    {
+      "route": "108.0",
+      "apc_boardings": 4532136,
+      "adjusted_boardings": 4178719.267,
+      "paid_entries": 2222777,
+      "evasion_rate": 0.4680721872,
+      "notes": ""
+    },
+    {
+      "route": "14.0",
+      "apc_boardings": 3766391,
+      "adjusted_boardings": 3472687.192,
+      "paid_entries": 1847588,
+      "evasion_rate": 0.4679659013,
+      "notes": ""
+    },
+    {
+      "route": "55.0",
+      "apc_boardings": 2374714,
+      "adjusted_boardings": 2189533.4,
+      "paid_entries": 1170793,
+      "evasion_rate": 0.4652773965,
+      "notes": ""
+    },
+    {
+      "route": "162.0",
+      "apc_boardings": 3147996,
+      "adjusted_boardings": 2902514.738,
+      "paid_entries": 1561516,
+      "evasion_rate": 0.4620127232,
+      "notes": ""
+    },
+    {
+      "route": "206.0",
+      "apc_boardings": 2918366,
+      "adjusted_boardings": 2690791.325,
+      "paid_entries": 1448903,
+      "evasion_rate": 0.4615327519,
+      "notes": ""
+    },
+    {
+      "route": "242.0",
+      "apc_boardings": 580208,
+      "adjusted_boardings": 534963.2818,
+      "paid_entries": 291216,
+      "evasion_rate": 0.4556336671,
+      "notes": ""
+    },
+    {
+      "route": "166.0",
+      "apc_boardings": 1914177,
+      "adjusted_boardings": 1764909.153,
+      "paid_entries": 961401,
+      "evasion_rate": 0.4552688458,
+      "notes": ""
+    },
+    {
+      "route": "212.0",
+      "apc_boardings": 3002540,
+      "adjusted_boardings": 2768401.422,
+      "paid_entries": 1511324,
+      "evasion_rate": 0.4540806156,
+      "notes": ""
+    },
+    {
+      "route": "224.0",
+      "apc_boardings": 2093238,
+      "adjusted_boardings": 1930006.946,
+      "paid_entries": 1059100,
+      "evasion_rate": 0.4512454983,
+      "notes": ""
+    },
+    {
+      "route": "234.0",
+      "apc_boardings": 2801386,
+      "adjusted_boardings": 2582933.445,
+      "paid_entries": 1425560,
+      "evasion_rate": 0.4480848886,
+      "notes": ""
+    },
+    {
+      "route": "110.0",
+      "apc_boardings": 2361663,
+      "adjusted_boardings": 2177500.119,
+      "paid_entries": 1202174,
+      "evasion_rate": 0.4479109372,
+      "notes": ""
+    },
+    {
+      "route": "2.0",
+      "apc_boardings": 6166572,
+      "adjusted_boardings": 5685701.671,
+      "paid_entries": 3142061,
+      "evasion_rate": 0.4473749799,
+      "notes": ""
+    },
+    {
+      "route": "60.0",
+      "apc_boardings": 4358059,
+      "adjusted_boardings": 4018216.821,
+      "paid_entries": 2221664,
+      "evasion_rate": 0.4471020109,
+      "notes": ""
+    },
+    {
+      "route": "125.0",
+      "apc_boardings": 1586118,
+      "adjusted_boardings": 1462432.25,
+      "paid_entries": 810224,
+      "evasion_rate": 0.4459750185,
+      "notes": ""
+    },
+    {
+      "route": "35.0",
+      "apc_boardings": 1607672,
+      "adjusted_boardings": 1482305.465,
+      "paid_entries": 829343,
+      "evasion_rate": 0.4405046601,
+      "notes": ""
+    },
+    {
+      "route": "10.0",
+      "apc_boardings": 2236005,
+      "adjusted_boardings": 2061640.951,
+      "paid_entries": 1159089,
+      "evasion_rate": 0.4377832865,
+      "notes": ""
+    },
+    {
+      "route": "761.0",
+      "apc_boardings": 2135893,
+      "adjusted_boardings": 1969335.702,
+      "paid_entries": 1110164,
+      "evasion_rate": 0.4362748825,
+      "notes": ""
+    },
+    {
+      "route": "218.0",
+      "apc_boardings": 214952,
+      "adjusted_boardings": 198190.0066,
+      "paid_entries": 111889,
+      "evasion_rate": 0.4354458032,
+      "notes": ""
+    },
+    {
+      "route": "28.0",
+      "apc_boardings": 3331543,
+      "adjusted_boardings": 3071748.712,
+      "paid_entries": 1757653,
+      "evasion_rate": 0.4278005252,
+      "notes": ""
+    },
+    {
+      "route": "217.0",
+      "apc_boardings": 3615395,
+      "adjusted_boardings": 3333465.885,
+      "paid_entries": 1914954,
+      "evasion_rate": 0.4255366439,
+      "notes": ""
+    },
+    {
+      "route": "127.0",
+      "apc_boardings": 592183,
+      "adjusted_boardings": 546004.4693,
+      "paid_entries": 313700,
+      "evasion_rate": 0.4254625784,
+      "notes": ""
+    },
+    {
+      "route": "690.0",
+      "apc_boardings": 345321,
+      "adjusted_boardings": 318392.8099,
+      "paid_entries": 184009,
+      "evasion_rate": 0.4220692356,
+      "notes": ""
+    },
+    {
+      "route": "605.0",
+      "apc_boardings": 720453,
+      "adjusted_boardings": 664271.953,
+      "paid_entries": 383920,
+      "evasion_rate": 0.4220439411,
+      "notes": ""
+    },
+    {
+      "route": "33.0",
+      "apc_boardings": 5437771,
+      "adjusted_boardings": 5013732.696,
+      "paid_entries": 2899059,
+      "evasion_rate": 0.421776314,
+      "notes": ""
+    },
+    {
+      "route": "93.0",
+      "apc_boardings": 1191501,
+      "adjusted_boardings": 1098587.55,
+      "paid_entries": 637147,
+      "evasion_rate": 0.4200307477,
+      "notes": ""
+    },
+    {
+      "route": "150.0",
+      "apc_boardings": 1017294,
+      "adjusted_boardings": 937965.2415,
+      "paid_entries": 546770,
+      "evasion_rate": 0.4170679511,
+      "notes": ""
+    },
+    {
+      "route": "128.0",
+      "apc_boardings": 336058,
+      "adjusted_boardings": 309852.1402,
+      "paid_entries": 181249,
+      "evasion_rate": 0.4150468031,
+      "notes": ""
+    },
+    {
+      "route": "165.0",
+      "apc_boardings": 2523872,
+      "adjusted_boardings": 2327060.034,
+      "paid_entries": 1365758,
+      "evasion_rate": 0.4130972213,
+      "notes": ""
+    },
+    {
+      "route": "167.0",
+      "apc_boardings": 458347,
+      "adjusted_boardings": 422605.0233,
+      "paid_entries": 249504,
+      "evasion_rate": 0.4096047461,
+      "notes": ""
+    },
+    {
+      "route": "202.0",
+      "apc_boardings": 62827,
+      "adjusted_boardings": 57927.73989,
+      "paid_entries": 34280,
+      "evasion_rate": 0.4082282502,
+      "notes": ""
+    },
+    {
+      "route": "30.0",
+      "apc_boardings": 2660591,
+      "adjusted_boardings": 2453117.663,
+      "paid_entries": 1457936,
+      "evasion_rate": 0.4056803626,
+      "notes": ""
+    },
+    {
+      "route": "577.0",
+      "apc_boardings": 234657,
+      "adjusted_boardings": 216358.4074,
+      "paid_entries": 129034,
+      "evasion_rate": 0.4036099564,
+      "notes": ""
+    },
+    {
+      "route": "205.0",
+      "apc_boardings": 925864,
+      "adjusted_boardings": 853664.9684,
+      "paid_entries": 511147,
+      "evasion_rate": 0.4012323114,
+      "notes": ""
+    },
+    {
+      "route": "246.0",
+      "apc_boardings": 1045126,
+      "adjusted_boardings": 963626.8974,
+      "paid_entries": 582460,
+      "evasion_rate": 0.3955544396,
+      "notes": ""
+    },
+    {
+      "route": "102.0",
+      "apc_boardings": 490248,
+      "adjusted_boardings": 452018.3779,
+      "paid_entries": 273465,
+      "evasion_rate": 0.3950135362,
+      "notes": ""
+    },
+    {
+      "route": "134.0",
+      "apc_boardings": 233582,
+      "adjusted_boardings": 215367.2361,
+      "paid_entries": 130413,
+      "evasion_rate": 0.3944622108,
+      "notes": ""
+    },
+    {
+      "route": "296.0",
+      "apc_boardings": 210390,
+      "adjusted_boardings": 193983.7521,
+      "paid_entries": 117851,
+      "evasion_rate": 0.3924697368,
+      "notes": ""
+    },
+    {
+      "route": "164.0",
+      "apc_boardings": 1961045,
+      "adjusted_boardings": 1808122.379,
+      "paid_entries": 1110092,
+      "evasion_rate": 0.3860526184,
+      "notes": ""
+    },
+    {
+      "route": "611.0",
+      "apc_boardings": 409372,
+      "adjusted_boardings": 377449.1021,
+      "paid_entries": 232235,
+      "evasion_rate": 0.3847249901,
+      "notes": ""
+    },
+    {
+      "route": "120.0",
+      "apc_boardings": 925704,
+      "adjusted_boardings": 853517.4452,
+      "paid_entries": 526046,
+      "evasion_rate": 0.3836728201,
+      "notes": ""
+    },
+    {
+      "route": "617.0",
+      "apc_boardings": 200416,
+      "adjusted_boardings": 184787.5264,
+      "paid_entries": 113949,
+      "evasion_rate": 0.3833512346,
+      "notes": ""
+    },
+    {
+      "route": "62.0",
+      "apc_boardings": 989796,
+      "adjusted_boardings": 912611.5402,
+      "paid_entries": 563626,
+      "evasion_rate": 0.3824031637,
+      "notes": ""
+    },
+    {
+      "route": "232.0",
+      "apc_boardings": 1472605,
+      "adjusted_boardings": 1357771.013,
+      "paid_entries": 838740,
+      "evasion_rate": 0.3822669712,
+      "notes": ""
+    },
+    {
+      "route": "251.0",
+      "apc_boardings": 4330346,
+      "adjusted_boardings": 3992664.885,
+      "paid_entries": 2467505,
+      "evasion_rate": 0.3819904573,
+      "notes": ""
+    },
+    {
+      "route": "182.0",
+      "apc_boardings": 920973,
+      "adjusted_boardings": 849155.3694,
+      "paid_entries": 527235,
+      "evasion_rate": 0.3791065581,
+      "notes": ""
+    },
+    {
+      "route": "236.0",
+      "apc_boardings": 570520,
+      "adjusted_boardings": 526030.7537,
+      "paid_entries": 328398,
+      "evasion_rate": 0.3757057022,
+      "notes": ""
+    },
+    {
+      "route": "550.0",
+      "apc_boardings": 112451,
+      "adjusted_boardings": 103682.052,
+      "paid_entries": 64939,
+      "evasion_rate": 0.3736717323,
+      "notes": ""
+    },
+    {
+      "route": "266.0",
+      "apc_boardings": 1777446,
+      "adjusted_boardings": 1638840.46,
+      "paid_entries": 1046953,
+      "evasion_rate": 0.3611623427,
+      "notes": ""
+    },
+    {
+      "route": "237.0",
+      "apc_boardings": 581197,
+      "adjusted_boardings": 535875.1595,
+      "paid_entries": 346224,
+      "evasion_rate": 0.3539092195,
+      "notes": ""
+    },
+    {
+      "route": "169.0",
+      "apc_boardings": 641953,
+      "adjusted_boardings": 591893.3963,
+      "paid_entries": 384349,
+      "evasion_rate": 0.3506448925,
+      "notes": ""
+    },
+    {
+      "route": "487.0",
+      "apc_boardings": 408291,
+      "adjusted_boardings": 376452.3986,
+      "paid_entries": 244457,
+      "evasion_rate": 0.3506297187,
+      "notes": ""
+    },
+    {
+      "route": "660.0",
+      "apc_boardings": 201053,
+      "adjusted_boardings": 185374.853,
+      "paid_entries": 120799,
+      "evasion_rate": 0.3483528211,
+      "notes": ""
+    },
+    {
+      "route": "222.0",
+      "apc_boardings": 359032,
+      "adjusted_boardings": 331034.6238,
+      "paid_entries": 216896,
+      "evasion_rate": 0.3447936125,
+      "notes": ""
+    },
+    {
+      "route": "70.0",
+      "apc_boardings": 4882793,
+      "adjusted_boardings": 4502031.974,
+      "paid_entries": 2980620,
+      "evasion_rate": 0.3379389536,
+      "notes": ""
+    },
+    {
+      "route": "180.0",
+      "apc_boardings": 2546073,
+      "adjusted_boardings": 2347529.796,
+      "paid_entries": 1555288,
+      "evasion_rate": 0.3374789097,
+      "notes": ""
+    },
+    {
+      "route": "94.0",
+      "apc_boardings": 2246146,
+      "adjusted_boardings": 2070991.154,
+      "paid_entries": 1381783,
+      "evasion_rate": 0.3327914525,
+      "notes": ""
+    },
+    {
+      "route": "260.0",
+      "apc_boardings": 3340447,
+      "adjusted_boardings": 3079958.377,
+      "paid_entries": 2063883,
+      "evasion_rate": 0.3298990611,
+      "notes": ""
+    },
+    {
+      "route": "265.0",
+      "apc_boardings": 374328,
+      "adjusted_boardings": 345137.8391,
+      "paid_entries": 233261,
+      "evasion_rate": 0.3241511838,
+      "notes": ""
+    },
+    {
+      "route": "92.0",
+      "apc_boardings": 1947636,
+      "adjusted_boardings": 1795759.015,
+      "paid_entries": 1219656,
+      "evasion_rate": 0.3208130991,
+      "notes": ""
+    },
+    {
+      "route": "78.0",
+      "apc_boardings": 2221565,
+      "adjusted_boardings": 2048326.985,
+      "paid_entries": 1391433,
+      "evasion_rate": 0.3206978132,
+      "notes": ""
+    },
+    {
+      "route": "106.0",
+      "apc_boardings": 1119003,
+      "adjusted_boardings": 1031742.956,
+      "paid_entries": 701362,
+      "evasion_rate": 0.320216343,
+      "notes": ""
+    },
+    {
+      "route": "344.0",
+      "apc_boardings": 451887,
+      "adjusted_boardings": 416648.7752,
+      "paid_entries": 285629,
+      "evasion_rate": 0.3144609632,
+      "notes": ""
+    },
+    {
+      "route": "158.0",
+      "apc_boardings": 572873,
+      "adjusted_boardings": 528200.2664,
+      "paid_entries": 364422,
+      "evasion_rate": 0.310068504,
+      "notes": ""
+    },
+    {
+      "route": "294.0",
+      "apc_boardings": 444154,
+      "adjusted_boardings": 409518.7958,
+      "paid_entries": 287707,
+      "evasion_rate": 0.29745105,
+      "notes": ""
+    },
+    {
+      "route": "90.0",
+      "apc_boardings": 1908931,
+      "adjusted_boardings": 1760072.237,
+      "paid_entries": 1245074,
+      "evasion_rate": 0.2926006253,
+      "notes": ""
+    },
+    {
+      "route": "665.0",
+      "apc_boardings": 225756,
+      "adjusted_boardings": 208151.5089,
+      "paid_entries": 147841,
+      "evasion_rate": 0.2897433182,
+      "notes": ""
+    },
+    {
+      "route": "161.0",
+      "apc_boardings": 247573,
+      "adjusted_boardings": 228267.2155,
+      "paid_entries": 163098,
+      "evasion_rate": 0.2854952927,
+      "notes": ""
+    },
+    {
+      "route": "258.0",
+      "apc_boardings": 658707,
+      "adjusted_boardings": 607340.9165,
+      "paid_entries": 435244,
+      "evasion_rate": 0.283361308,
+      "notes": ""
+    },
+    {
+      "route": "76.0",
+      "apc_boardings": 2021710,
+      "adjusted_boardings": 1864056.712,
+      "paid_entries": 1346676,
+      "evasion_rate": 0.2775563149,
+      "notes": ""
+    },
+    {
+      "route": "179.0",
+      "apc_boardings": 308674,
+      "adjusted_boardings": 284603.5492,
+      "paid_entries": 206550,
+      "evasion_rate": 0.2742536044,
+      "notes": ""
+    },
+    {
+      "route": "662.0",
+      "apc_boardings": 461287,
+      "adjusted_boardings": 425315.7616,
+      "paid_entries": 310979,
+      "evasion_rate": 0.2688279436,
+      "notes": ""
+    },
+    {
+      "route": "287.0",
+      "apc_boardings": 273866,
+      "adjusted_boardings": 252509.8829,
+      "paid_entries": 188401,
+      "evasion_rate": 0.2538866288,
+      "notes": ""
+    },
+    {
+      "route": "268.0",
+      "apc_boardings": 233229,
+      "adjusted_boardings": 215041.7631,
+      "paid_entries": 169937,
+      "evasion_rate": 0.2097488526,
+      "notes": ""
+    },
+    {
+      "route": "267.0",
+      "apc_boardings": 552877,
+      "adjusted_boardings": 509763.5579,
+      "paid_entries": 409443,
+      "evasion_rate": 0.1967982142,
+      "notes": ""
+    },
+    {
+      "route": "155.0",
+      "apc_boardings": 410023,
+      "adjusted_boardings": 378049.337,
+      "paid_entries": 318569,
+      "evasion_rate": 0.1573348533,
+      "notes": ""
+    },
+    {
+      "route": "501.0",
+      "apc_boardings": 434223,
+      "adjusted_boardings": 400362.2169,
+      "paid_entries": 351203,
+      "evasion_rate": 0.1227868535,
+      "notes": ""
+    },
+    {
+      "route": "857.0",
+      "apc_boardings": 146352,
+      "adjusted_boardings": 134939.4462,
+      "paid_entries": null,
+      "evasion_rate": null,
+      "notes": "This was the bus Metro operated to link the two K Line fragments before the line was completed in June 2025. While its ridership was properly tabulated, its fare data got dumped into the \"unclassified\" row."
+    },
+    {
+      "route": "Misclassified",
+      "apc_boardings": null,
+      "adjusted_boardings": null,
+      "paid_entries": 152766.0,
+      "evasion_rate": null,
+      "notes": "These fares were accidentally attributed to bus routes that were not operating in 2025. They are data errors and represent about 0.14% of the total fares paid. But we are including them anyway because they were likely real fares paid on other routes."
+    },
+    {
+      "route": "Unclassified",
+      "apc_boardings": null,
+      "adjusted_boardings": null,
+      "paid_entries": 41340,
+      "evasion_rate": null,
+      "notes": "These are also real fares that were paid. We just don't know where because they weren't attributed to any specific route. We believe these are primarily from temporary routes like the 857."
+    },
+    {
+      "route": "Total",
+      "apc_boardings": 236943315,
+      "adjusted_boardings": 218466435.1,
+      "paid_entries": 113034486,
+      "evasion_rate": 0.4826002176,
+      "notes": ""
+    }
+  ],
+  "rail": [
+    {
+      "merged_station": "Willowbrook / Rosa Parks Station - A Line",
+      "apc_boardings": 1405270,
+      "adjusted_boardings": 1300135.175,
+      "fare_station": "Willowbrook/Rosa Parks (Blue)",
+      "paid_entries": 148690,
+      "evasion_rate": 0.8856349687,
+      "notes": ""
+    },
+    {
+      "merged_station": "Washington Station",
+      "apc_boardings": 310851,
+      "adjusted_boardings": 287594.782,
+      "fare_station": "Washington",
+      "paid_entries": 41859,
+      "evasion_rate": 0.8544514622,
+      "notes": ""
+    },
+    {
+      "merged_station": "5th Street Station",
+      "apc_boardings": 118497,
+      "adjusted_boardings": 109631.6849,
+      "fare_station": "5th Street",
+      "paid_entries": 16186,
+      "evasion_rate": 0.8523602003,
+      "notes": ""
+    },
+    {
+      "merged_station": "Downtown Long Beach Station",
+      "apc_boardings": 979428,
+      "adjusted_boardings": 906152.4079,
+      "fare_station": "Downtown Long Beach",
+      "paid_entries": 141659,
+      "evasion_rate": 0.8436697858,
+      "notes": ""
+    },
+    {
+      "merged_station": "Farmdale Station",
+      "apc_boardings": 285508,
+      "adjusted_boardings": 264147.8104,
+      "fare_station": "Farmdale",
+      "paid_entries": 43935,
+      "evasion_rate": 0.8336726701,
+      "notes": ""
+    },
+    {
+      "merged_station": "Pico/Aliso Station",
+      "apc_boardings": 241782,
+      "adjusted_boardings": 223693.1571,
+      "fare_station": "Pico/Aliso",
+      "paid_entries": 38106,
+      "evasion_rate": 0.8296505781,
+      "notes": ""
+    },
+    {
+      "merged_station": "Slauson Station",
+      "apc_boardings": 420929,
+      "adjusted_boardings": 389437.3317,
+      "fare_station": "Slauson",
+      "paid_entries": 70889,
+      "evasion_rate": 0.8179707125,
+      "notes": ""
+    },
+    {
+      "merged_station": "Pacific Coast Hwy Station",
+      "apc_boardings": 536563,
+      "adjusted_boardings": 496420.211,
+      "fare_station": "Pacific Coast Highway",
+      "paid_entries": 91765,
+      "evasion_rate": 0.8151465271,
+      "notes": ""
+    },
+    {
+      "merged_station": "San Pedro Street Station",
+      "apc_boardings": 479903,
+      "adjusted_boardings": 443999.2108,
+      "fare_station": "San Pedro St",
+      "paid_entries": 82208,
+      "evasion_rate": 0.8148465177,
+      "notes": ""
+    },
+    {
+      "merged_station": "1st Street Station",
+      "apc_boardings": 104217,
+      "adjusted_boardings": 96420.03852,
+      "fare_station": "1st Street",
+      "paid_entries": 18435,
+      "evasion_rate": 0.8088053035,
+      "notes": ""
+    },
+    {
+      "merged_station": "Anaheim Street Station",
+      "apc_boardings": 593791,
+      "adjusted_boardings": 549366.7165,
+      "fare_station": "Anaheim St",
+      "paid_entries": 106025,
+      "evasion_rate": 0.8070050536,
+      "notes": ""
+    },
+    {
+      "merged_station": "Vermont / Athens Station",
+      "apc_boardings": 476471,
+      "adjusted_boardings": 440823.9747,
+      "fare_station": "Vermont/Athens",
+      "paid_entries": 85598,
+      "evasion_rate": 0.8058227208,
+      "notes": ""
+    },
+    {
+      "merged_station": "103rd Street / Watts Towers Station",
+      "apc_boardings": 602210,
+      "adjusted_boardings": 557155.8517,
+      "fare_station": "103rd St/Watts Towers",
+      "paid_entries": 111526,
+      "evasion_rate": 0.7998297969,
+      "notes": ""
+    },
+    {
+      "merged_station": "Vernon Station",
+      "apc_boardings": 536723,
+      "adjusted_boardings": 496568.2407,
+      "fare_station": "Vernon",
+      "paid_entries": 108456,
+      "evasion_rate": 0.7815889315,
+      "notes": ""
+    },
+    {
+      "merged_station": "Expo / Vermont Station",
+      "apc_boardings": 902388,
+      "adjusted_boardings": 834876.1308,
+      "fare_station": "Expo/Vermont",
+      "paid_entries": 182818,
+      "evasion_rate": 0.7810238031,
+      "notes": ""
+    },
+    {
+      "merged_station": "Redondo Beach Station",
+      "apc_boardings": 265660,
+      "adjusted_boardings": 245784.7322,
+      "fare_station": "Redondo Beach",
+      "paid_entries": 54059,
+      "evasion_rate": 0.7800555001,
+      "notes": ""
+    },
+    {
+      "merged_station": "Grand / LATTC Station",
+      "apc_boardings": 678510,
+      "adjusted_boardings": 627747.4917,
+      "fare_station": "Grand/LATTC",
+      "paid_entries": 139080,
+      "evasion_rate": 0.7784459487,
+      "notes": ""
+    },
+    {
+      "merged_station": "Hawthorne / Lennox Station",
+      "apc_boardings": 437613,
+      "adjusted_boardings": 404873.1236,
+      "fare_station": "Hawthorne/Lennox",
+      "paid_entries": 94852,
+      "evasion_rate": 0.7657241381,
+      "notes": ""
+    },
+    {
+      "merged_station": "17th Street / SMC Station",
+      "apc_boardings": 502057,
+      "adjusted_boardings": 464495.7663,
+      "fare_station": "17th St/SMC",
+      "paid_entries": 109532,
+      "evasion_rate": 0.7641916075,
+      "notes": ""
+    },
+    {
+      "merged_station": "Expo / Western Station",
+      "apc_boardings": 879577,
+      "adjusted_boardings": 813771.7284,
+      "fare_station": "Expo/Western",
+      "paid_entries": 202397,
+      "evasion_rate": 0.7512852893,
+      "notes": ""
+    },
+    {
+      "merged_station": "Artesia Station",
+      "apc_boardings": 508580,
+      "adjusted_boardings": 470530.7502,
+      "fare_station": "Artesia",
+      "paid_entries": 117145,
+      "evasion_rate": 0.7510364626,
+      "notes": ""
+    },
+    {
+      "merged_station": "LATTC / Ortho Institute Station",
+      "apc_boardings": 654248,
+      "adjusted_boardings": 605300.6454,
+      "fare_station": "LATTC/Ortho Institute",
+      "paid_entries": 150749,
+      "evasion_rate": 0.7509518598,
+      "notes": ""
+    },
+    {
+      "merged_station": "Avalon Station",
+      "apc_boardings": 370024,
+      "adjusted_boardings": 342340.7729,
+      "fare_station": "Avalon",
+      "paid_entries": 87400,
+      "evasion_rate": 0.7446988296,
+      "notes": ""
+    },
+    {
+      "merged_station": "Pacific Ave Station",
+      "apc_boardings": 253484,
+      "adjusted_boardings": 234519.6757,
+      "fare_station": "Pacific Av",
+      "paid_entries": 60022,
+      "evasion_rate": 0.7440641182,
+      "notes": ""
+    },
+    {
+      "merged_station": "Compton Station",
+      "apc_boardings": 642746,
+      "adjusted_boardings": 594659.1639,
+      "fare_station": "Compton",
+      "paid_entries": 153061,
+      "evasion_rate": 0.7426071785,
+      "notes": ""
+    },
+    {
+      "merged_station": "Crenshaw Station",
+      "apc_boardings": 424558,
+      "adjusted_boardings": 392794.8292,
+      "fare_station": "Crenshaw",
+      "paid_entries": 101911,
+      "evasion_rate": 0.7405490286,
+      "notes": ""
+    },
+    {
+      "merged_station": "Wardlow Station",
+      "apc_boardings": 247712,
+      "adjusted_boardings": 229179.5061,
+      "fare_station": "Wardlow",
+      "paid_entries": 60863,
+      "evasion_rate": 0.7344308789,
+      "notes": ""
+    },
+    {
+      "merged_station": "Long Beach Blvd Station",
+      "apc_boardings": 451222,
+      "adjusted_boardings": 417463.9706,
+      "fare_station": "Lynwood",
+      "paid_entries": 112903,
+      "evasion_rate": 0.7295503134,
+      "notes": ""
+    },
+    {
+      "merged_station": "Union Station - A Line",
+      "apc_boardings": 1557646,
+      "adjusted_boardings": 1441111.213,
+      "fare_station": "Union Station (Blue)",
+      "paid_entries": 391746,
+      "evasion_rate": 0.728163936,
+      "notes": ""
+    },
+    {
+      "merged_station": "Florence Station",
+      "apc_boardings": 766945,
+      "adjusted_boardings": 709566.2555,
+      "fare_station": "Florence",
+      "paid_entries": 194738,
+      "evasion_rate": 0.7255534652,
+      "notes": ""
+    },
+    {
+      "merged_station": "Atlantic Station",
+      "apc_boardings": 661730,
+      "adjusted_boardings": 612222.882,
+      "fare_station": "Atlantic",
+      "paid_entries": 171948,
+      "evasion_rate": 0.7191415005,
+      "notes": ""
+    },
+    {
+      "merged_station": "Maravilla Station",
+      "apc_boardings": 125815,
+      "adjusted_boardings": 116402.1911,
+      "fare_station": "Maravilla",
+      "paid_entries": 33304,
+      "evasion_rate": 0.7138885472,
+      "notes": ""
+    },
+    {
+      "merged_station": "Lincoln Heights / Cypress Park Station",
+      "apc_boardings": 323890,
+      "adjusted_boardings": 299658.2734,
+      "fare_station": "Lincoln/Cypress",
+      "paid_entries": 87207,
+      "evasion_rate": 0.7089785007,
+      "notes": ""
+    },
+    {
+      "merged_station": "Harbor Station",
+      "apc_boardings": 596387,
+      "adjusted_boardings": 551768.4976,
+      "fare_station": "Harbor Freeway",
+      "paid_entries": 161219,
+      "evasion_rate": 0.7078140548,
+      "notes": ""
+    },
+    {
+      "merged_station": "East LA Civic Center Station",
+      "apc_boardings": 158546,
+      "adjusted_boardings": 146684.4318,
+      "fare_station": "E LA Civic Center",
+      "paid_entries": 43359,
+      "evasion_rate": 0.7044062586,
+      "notes": ""
+    },
+    {
+      "merged_station": "Chinatown Station",
+      "apc_boardings": 444996,
+      "adjusted_boardings": 411703.7668,
+      "fare_station": "Chinatown",
+      "paid_entries": 123664,
+      "evasion_rate": 0.6996286894,
+      "notes": ""
+    },
+    {
+      "merged_station": "Jefferson / USC Station",
+      "apc_boardings": 446411,
+      "adjusted_boardings": 413012.904,
+      "fare_station": "Jefferson/USC",
+      "paid_entries": 125783,
+      "evasion_rate": 0.6954501935,
+      "notes": ""
+    },
+    {
+      "merged_station": "Lakewood Blvd Station",
+      "apc_boardings": 392697,
+      "adjusted_boardings": 363317.4997,
+      "fare_station": "Lakewood Bl",
+      "paid_entries": 111339,
+      "evasion_rate": 0.6935490306,
+      "notes": ""
+    },
+    {
+      "merged_station": "Willow Street Station",
+      "apc_boardings": 470596,
+      "adjusted_boardings": 435388.511,
+      "fare_station": "Willow St",
+      "paid_entries": 134710,
+      "evasion_rate": 0.6905981747,
+      "notes": ""
+    },
+    {
+      "merged_station": "Indiana Station",
+      "apc_boardings": 286533,
+      "adjusted_boardings": 265096.1254,
+      "fare_station": "Indiana",
+      "paid_entries": 82521,
+      "evasion_rate": 0.6887129154,
+      "notes": ""
+    },
+    {
+      "merged_station": "Pomona North Station",
+      "apc_boardings": 216048,
+      "adjusted_boardings": 199884.4381,
+      "fare_station": "Pomona-North",
+      "paid_entries": 62438,
+      "evasion_rate": 0.6876295093,
+      "notes": ""
+    },
+    {
+      "merged_station": "Southwest Museum Station",
+      "apc_boardings": 155596,
+      "adjusted_boardings": 143955.1351,
+      "fare_station": "Southwest Museum",
+      "paid_entries": 46488,
+      "evasion_rate": 0.6770660528,
+      "notes": ""
+    },
+    {
+      "merged_station": "APU Station",
+      "apc_boardings": 417782,
+      "adjusted_boardings": 386525.7735,
+      "fare_station": "APU/Citrus College",
+      "paid_entries": 126253,
+      "evasion_rate": 0.6733646016,
+      "notes": ""
+    },
+    {
+      "merged_station": "Expo / Crenshaw Station - E Line",
+      "apc_boardings": 893584,
+      "adjusted_boardings": 826730.7992,
+      "fare_station": "Expo/Crenshaw - Expo",
+      "paid_entries": 277354,
+      "evasion_rate": 0.6645171557,
+      "notes": ""
+    },
+    {
+      "merged_station": "Fairview Heights Station",
+      "apc_boardings": 100775,
+      "adjusted_boardings": 93235.55065,
+      "fare_station": "Fairview Heights",
+      "paid_entries": 31364,
+      "evasion_rate": 0.6636047111,
+      "notes": ""
+    },
+    {
+      "merged_station": "Del Amo Station",
+      "apc_boardings": 435446,
+      "adjusted_boardings": 402868.247,
+      "fare_station": "Del Amo",
+      "paid_entries": 136784,
+      "evasion_rate": 0.6604746067,
+      "notes": ""
+    },
+    {
+      "merged_station": "Expo / La Brea / Ethel Bradley Station",
+      "apc_boardings": 508800,
+      "adjusted_boardings": 470734.291,
+      "fare_station": "Expo/La Brea",
+      "paid_entries": 161687,
+      "evasion_rate": 0.6565217298,
+      "notes": ""
+    },
+    {
+      "merged_station": "Fillmore Station",
+      "apc_boardings": 334353,
+      "adjusted_boardings": 309338.4874,
+      "fare_station": "Fillmore",
+      "paid_entries": 109275,
+      "evasion_rate": 0.6467461876,
+      "notes": ""
+    },
+    {
+      "merged_station": "Leimert Park Station",
+      "apc_boardings": 91685,
+      "adjusted_boardings": 84825.61609,
+      "fare_station": "Leimert Park",
+      "paid_entries": 30311,
+      "evasion_rate": 0.6426669042,
+      "notes": ""
+    },
+    {
+      "merged_station": "Norwalk Station",
+      "apc_boardings": 695153,
+      "adjusted_boardings": 643145.3509,
+      "fare_station": "Norwalk",
+      "paid_entries": 233977,
+      "evasion_rate": 0.6361988784,
+      "notes": ""
+    },
+    {
+      "merged_station": "Duarte / City of Hope Station",
+      "apc_boardings": 197029,
+      "adjusted_boardings": 182288.3385,
+      "fare_station": "Duarte/City of Hope",
+      "paid_entries": 66847,
+      "evasion_rate": 0.6332897619,
+      "notes": ""
+    },
+    {
+      "merged_station": "Azusa Downtown Station",
+      "apc_boardings": 320971,
+      "adjusted_boardings": 296957.6574,
+      "fare_station": "Azusa Downtown",
+      "paid_entries": 109361,
+      "evasion_rate": 0.6317286412,
+      "notes": ""
+    },
+    {
+      "merged_station": "Heritage Square / Arroyo Station",
+      "apc_boardings": 151867,
+      "adjusted_boardings": 140505.119,
+      "fare_station": "Heritage Square",
+      "paid_entries": 52297,
+      "evasion_rate": 0.6277929206,
+      "notes": ""
+    },
+    {
+      "merged_station": "Westlake / MacArthur Park Station",
+      "apc_boardings": 1660313,
+      "adjusted_boardings": 1536097.215,
+      "fare_station": "Westlake/MacArthur Park",
+      "paid_entries": 572442,
+      "evasion_rate": 0.6273399922,
+      "notes": ""
+    },
+    {
+      "merged_station": "Hyde Park Station",
+      "apc_boardings": 151375,
+      "adjusted_boardings": 140049.9279,
+      "fare_station": "Hyde Park",
+      "paid_entries": 52463,
+      "evasion_rate": 0.6253978791,
+      "notes": ""
+    },
+    {
+      "merged_station": "Soto Station",
+      "apc_boardings": 406909,
+      "adjusted_boardings": 376466.2335,
+      "fare_station": "Soto",
+      "paid_entries": 142791,
+      "evasion_rate": 0.6207070189,
+      "notes": ""
+    },
+    {
+      "merged_station": "Highland Park Station",
+      "apc_boardings": 492460,
+      "adjusted_boardings": 455616.7628,
+      "fare_station": "Highland Park",
+      "paid_entries": 172942,
+      "evasion_rate": 0.6204222186,
+      "notes": ""
+    },
+    {
+      "merged_station": "Aviation Station",
+      "apc_boardings": 474364,
+      "adjusted_boardings": 438874.6093,
+      "fare_station": "Aviation/Imperial",
+      "paid_entries": 166623,
+      "evasion_rate": 0.6203403057,
+      "notes": ""
+    },
+    {
+      "merged_station": "26th Street / Bergamot Station",
+      "apc_boardings": 320761,
+      "adjusted_boardings": 296763.3685,
+      "fare_station": "26th St/Bergamot",
+      "paid_entries": 113845,
+      "evasion_rate": 0.616377855,
+      "notes": ""
+    },
+    {
+      "merged_station": "Irwindale Station",
+      "apc_boardings": 123459,
+      "adjusted_boardings": 114222.4545,
+      "fare_station": "Irwindale",
+      "paid_entries": 43849,
+      "evasion_rate": 0.6161087572,
+      "notes": ""
+    },
+    {
+      "merged_station": "Downtown Inglewood Station",
+      "apc_boardings": 163913,
+      "adjusted_boardings": 151649.9014,
+      "fare_station": "Downtown Inglewood",
+      "paid_entries": 60756,
+      "evasion_rate": 0.5993667029,
+      "notes": ""
+    },
+    {
+      "merged_station": "Westchester Station",
+      "apc_boardings": 145624,
+      "adjusted_boardings": 134729.1871,
+      "fare_station": "Westchester/Veterans",
+      "paid_entries": 54508,
+      "evasion_rate": 0.5954254517,
+      "notes": ""
+    },
+    {
+      "merged_station": "Firestone Station",
+      "apc_boardings": 484512,
+      "adjusted_boardings": 448263.3899,
+      "fare_station": "Firestone",
+      "paid_entries": 183670,
+      "evasion_rate": 0.5902632155,
+      "notes": ""
+    },
+    {
+      "merged_station": "Monrovia Station",
+      "apc_boardings": 246689,
+      "adjusted_boardings": 228233.0415,
+      "fare_station": "Monrovia",
+      "paid_entries": 95399,
+      "evasion_rate": 0.5820105652,
+      "notes": ""
+    },
+    {
+      "merged_station": "Del Mar Station",
+      "apc_boardings": 343192,
+      "adjusted_boardings": 317516.2004,
+      "fare_station": "Del Mar",
+      "paid_entries": 133952,
+      "evasion_rate": 0.5781254632,
+      "notes": ""
+    },
+    {
+      "merged_station": "Douglas Station",
+      "apc_boardings": 93455,
+      "adjusted_boardings": 86463.19411,
+      "fare_station": "Douglas",
+      "paid_entries": 36556,
+      "evasion_rate": 0.5772073843,
+      "notes": ""
+    },
+    {
+      "merged_station": "Mariposa Station",
+      "apc_boardings": 100563,
+      "adjusted_boardings": 93039.41136,
+      "fare_station": "Mariposa",
+      "paid_entries": 40479,
+      "evasion_rate": 0.5649263102,
+      "notes": ""
+    },
+    {
+      "merged_station": "South Pasadena Station",
+      "apc_boardings": 307510,
+      "adjusted_boardings": 284503.7378,
+      "fare_station": "South Pasadena",
+      "paid_entries": 125151,
+      "evasion_rate": 0.5601077126,
+      "notes": ""
+    },
+    {
+      "merged_station": "Vermont / Beverly Station",
+      "apc_boardings": 655116,
+      "adjusted_boardings": 606103.7063,
+      "fare_station": "Vermont/Beverly",
+      "paid_entries": 267559,
+      "evasion_rate": 0.5585590432,
+      "notes": ""
+    },
+    {
+      "merged_station": "Arcadia Station",
+      "apc_boardings": 299633,
+      "adjusted_boardings": 277216.0531,
+      "fare_station": "Arcadia",
+      "paid_entries": 122557,
+      "evasion_rate": 0.557900783,
+      "notes": ""
+    },
+    {
+      "merged_station": "Memorial Park Station",
+      "apc_boardings": 468045,
+      "adjusted_boardings": 433028.3632,
+      "fare_station": "Memorial Park",
+      "paid_entries": 192910,
+      "evasion_rate": 0.5545095509,
+      "notes": ""
+    },
+    {
+      "merged_station": "La Cienega / Jefferson Station",
+      "apc_boardings": 496577,
+      "adjusted_boardings": 459425.7508,
+      "fare_station": "La Cienega/Jefferson",
+      "paid_entries": 207762,
+      "evasion_rate": 0.54777894,
+      "notes": ""
+    },
+    {
+      "merged_station": "Westwood / Rancho Park Station",
+      "apc_boardings": 383654,
+      "adjusted_boardings": 354951.0489,
+      "fare_station": "Westwood/Rancho Park",
+      "paid_entries": 161234,
+      "evasion_rate": 0.5457570825,
+      "notes": ""
+    },
+    {
+      "merged_station": "Expo / Bundy Station",
+      "apc_boardings": 469733,
+      "adjusted_boardings": 434590.076,
+      "fare_station": "Expo/Bundy",
+      "paid_entries": 201304,
+      "evasion_rate": 0.5367956815,
+      "notes": ""
+    },
+    {
+      "merged_station": "Mariachi Plaza / Boyle Heights Station",
+      "apc_boardings": 192733,
+      "adjusted_boardings": 178313.7423,
+      "fare_station": "Mariachi Plaza",
+      "paid_entries": 82606,
+      "evasion_rate": 0.5367378929,
+      "notes": ""
+    },
+    {
+      "merged_station": "Martin Luther King Station",
+      "apc_boardings": 97145,
+      "adjusted_boardings": 89877.12794,
+      "fare_station": "Martin Luther King Jr",
+      "paid_entries": 41982,
+      "evasion_rate": 0.5328956214,
+      "notes": ""
+    },
+    {
+      "merged_station": "Wilshire / Western Station",
+      "apc_boardings": 577178,
+      "adjusted_boardings": 533996.6128,
+      "fare_station": "Wilshire/Western",
+      "paid_entries": 251516,
+      "evasion_rate": 0.528993267,
+      "notes": ""
+    },
+    {
+      "merged_station": "Culver City Station",
+      "apc_boardings": 677683,
+      "adjusted_boardings": 626982.3634,
+      "fare_station": "Culver City",
+      "paid_entries": 295958,
+      "evasion_rate": 0.5279643938,
+      "notes": ""
+    },
+    {
+      "merged_station": "Expo / Sepulveda Station",
+      "apc_boardings": 557665,
+      "adjusted_boardings": 515943.4716,
+      "fare_station": "Expo/Sepulveda",
+      "paid_entries": 244284,
+      "evasion_rate": 0.5265295261,
+      "notes": ""
+    },
+    {
+      "merged_station": "El Segundo Station",
+      "apc_boardings": 104182,
+      "adjusted_boardings": 96387.65704,
+      "fare_station": "El Segundo",
+      "paid_entries": 46016,
+      "evasion_rate": 0.5225944751,
+      "notes": ""
+    },
+    {
+      "merged_station": "Willowbrook / Rosa Parks Station - C Line",
+      "apc_boardings": 1158328,
+      "adjusted_boardings": 1071668.062,
+      "fare_station": "Willowbrook/Rosa Parks (Green)",
+      "paid_entries": 530807,
+      "evasion_rate": 0.5046908469,
+      "notes": ""
+    },
+    {
+      "merged_station": "Expo Park / USC Station",
+      "apc_boardings": 478299,
+      "adjusted_boardings": 442515.2135,
+      "fare_station": "Expo Park/USC",
+      "paid_entries": 223934,
+      "evasion_rate": 0.4939518616,
+      "notes": ""
+    },
+    {
+      "merged_station": "Civic Center / Grand Park Station",
+      "apc_boardings": 641281,
+      "adjusted_boardings": 593303.7674,
+      "fare_station": "Civic Center/Grand Park",
+      "paid_entries": 303525,
+      "evasion_rate": 0.4884155188,
+      "notes": ""
+    },
+    {
+      "merged_station": "Expo / Crenshaw Station - K Line",
+      "apc_boardings": 534150,
+      "adjusted_boardings": 494187.7388,
+      "fare_station": "Expo/Crenshaw - CLAX",
+      "paid_entries": 254027,
+      "evasion_rate": 0.4859706544,
+      "notes": ""
+    },
+    {
+      "merged_station": "Sierra Madre Villa Station",
+      "apc_boardings": 341408,
+      "adjusted_boardings": 315865.6698,
+      "fare_station": "Sierra Madre Villa",
+      "paid_entries": 162809,
+      "evasion_rate": 0.4845625354,
+      "notes": ""
+    },
+    {
+      "merged_station": "Pershing Square Station",
+      "apc_boardings": 1411856,
+      "adjusted_boardings": 1306228.446,
+      "fare_station": "Pershing Square",
+      "paid_entries": 674205,
+      "evasion_rate": 0.483853684,
+      "notes": ""
+    },
+    {
+      "merged_station": "Wilshire / Normandie Station",
+      "apc_boardings": 339134,
+      "adjusted_boardings": 313761.7984,
+      "fare_station": "Wilshire/Normandie",
+      "paid_entries": 169282,
+      "evasion_rate": 0.4604760654,
+      "notes": ""
+    },
+    {
+      "merged_station": "Allen Station",
+      "apc_boardings": 243502,
+      "adjusted_boardings": 225284.4759,
+      "fare_station": "Allen",
+      "paid_entries": 122458,
+      "evasion_rate": 0.4564294786,
+      "notes": ""
+    },
+    {
+      "merged_station": "Grand Arts / Bunker Hill Station",
+      "apc_boardings": 583696,
+      "adjusted_boardings": 540026.9707,
+      "fare_station": "Grand Av Arts/Bunker Hill",
+      "paid_entries": 299833,
+      "evasion_rate": 0.4447814345,
+      "notes": ""
+    },
+    {
+      "merged_station": "Hollywood / Vine Station",
+      "apc_boardings": 916669,
+      "adjusted_boardings": 848088.7023,
+      "fare_station": "Hollywood/Vine",
+      "paid_entries": 476704,
+      "evasion_rate": 0.4379078525,
+      "notes": ""
+    },
+    {
+      "merged_station": "Historic Broadway Station",
+      "apc_boardings": 596425,
+      "adjusted_boardings": 551803.6546,
+      "fare_station": "Historic Broadway",
+      "paid_entries": 310764,
+      "evasion_rate": 0.4368214176,
+      "notes": ""
+    },
+    {
+      "merged_station": "Vermont / Santa Monica Station",
+      "apc_boardings": 810409,
+      "adjusted_boardings": 749778.5102,
+      "fare_station": "Vermont/Santa Monica",
+      "paid_entries": 423098,
+      "evasion_rate": 0.4357026852,
+      "notes": ""
+    },
+    {
+      "merged_station": "San Dimas Station",
+      "apc_boardings": 52404,
+      "adjusted_boardings": 48483.41152,
+      "fare_station": "San Dimas",
+      "paid_entries": 27627,
+      "evasion_rate": 0.4301762369,
+      "notes": ""
+    },
+    {
+      "merged_station": "La Verne / Fairplex Station",
+      "apc_boardings": 36673,
+      "adjusted_boardings": 33929.32125,
+      "fare_station": "La Verne/Fairplex",
+      "paid_entries": 19340,
+      "evasion_rate": 0.4299915446,
+      "notes": ""
+    },
+    {
+      "merged_station": "Universal / Studio City Station",
+      "apc_boardings": 1095750,
+      "adjusted_boardings": 1013771.815,
+      "fare_station": "Universal City/Studio City",
+      "paid_entries": 577866,
+      "evasion_rate": 0.4299841526,
+      "notes": ""
+    },
+    {
+      "merged_station": "Vermont / Sunset Station",
+      "apc_boardings": 755135,
+      "adjusted_boardings": 698639.8168,
+      "fare_station": "Vermont/Sunset",
+      "paid_entries": 426311,
+      "evasion_rate": 0.3897985919,
+      "notes": ""
+    },
+    {
+      "merged_station": "Glendora Station",
+      "apc_boardings": 51754,
+      "adjusted_boardings": 47882.04107,
+      "fare_station": "Glendora",
+      "paid_entries": 29371,
+      "evasion_rate": 0.3865967418,
+      "notes": ""
+    },
+    {
+      "merged_station": "Hollywood / Western Station",
+      "apc_boardings": 823932,
+      "adjusted_boardings": 762289.7913,
+      "fare_station": "Hollywood/Western",
+      "paid_entries": 472618,
+      "evasion_rate": 0.3800021916,
+      "notes": ""
+    },
+    {
+      "merged_station": "Palms Station",
+      "apc_boardings": 326195,
+      "adjusted_boardings": 301790.8255,
+      "fare_station": "Palms",
+      "paid_entries": 187564,
+      "evasion_rate": 0.3784966801,
+      "notes": ""
+    },
+    {
+      "merged_station": "Hollywood / Highland Station",
+      "apc_boardings": 1283065,
+      "adjusted_boardings": 1187072.903,
+      "fare_station": "Hollywood/Highland",
+      "paid_entries": 753550,
+      "evasion_rate": 0.3652032675,
+      "notes": ""
+    },
+    {
+      "merged_station": "Lake Station",
+      "apc_boardings": 316963,
+      "adjusted_boardings": 293249.5147,
+      "fare_station": "Lake",
+      "paid_entries": 191960,
+      "evasion_rate": 0.3454038612,
+      "notes": ""
+    },
+    {
+      "merged_station": "Downtown Santa Monica Station",
+      "apc_boardings": 1709706,
+      "adjusted_boardings": 1581794.893,
+      "fare_station": "Downtown Santa Monica",
+      "paid_entries": 1400596,
+      "evasion_rate": 0.1145527109,
+      "notes": ""
+    },
+    {
+      "merged_station": "Union Station - Metro Red & Purple Lines",
+      "apc_boardings": 1928865,
+      "adjusted_boardings": 1784557.583,
+      "fare_station": "Union Station (Red)",
+      "paid_entries": 1634919,
+      "evasion_rate": 0.08385192175,
+      "notes": ""
+    },
+    {
+      "merged_station": "North Hollywood Station",
+      "apc_boardings": 2126497,
+      "adjusted_boardings": 1967403.808,
+      "fare_station": "North Hollywood (Red)",
+      "paid_entries": 2195180,
+      "evasion_rate": -0.1157750082,
+      "notes": "This is likely a result of TAP-to-Exit. In 2025, the TAP-to-Exit pilot caused many B Line fare evaders to end up getting charged at North Hollywood when exiting, resulting in more fares than boardings. To be clear, I freely concede that TAP-to-Exit works at individual stations. My point is that it only works when TSOs are present and that's what's causing the fare compliance, not the tapping proceedure. And we'll never have enough TSOs to babysit even half the system's faregates. TAP-to-Exit is a performative distraction from the real solution: fare checks."
+    },
+    {
+      "merged_station": "Total",
+      "apc_boardings": 54118342,
+      "adjusted_boardings": 50069495.58,
+      "fare_station": "Total",
+      "paid_entries": 21817565,
+      "evasion_rate": 0.5642543479,
+      "notes": ""
+    }
+  ],
+  "totals": [
+    {
+      "mode": "Bus",
+      "apc_boardings": 218466435.1,
+      "paid_boardings": 113034486,
+      "evasion_rate": 0.4826002176,
+      "notes": "This is the total fare evasion rate for the whole bus system."
+    },
+    {
+      "mode": "Rail",
+      "apc_boardings": 50069495.58,
+      "paid_boardings": 21817565,
+      "evasion_rate": 0.5642543479,
+      "notes": "This is the fare evasion rate for the stations without in-gate transfers."
+    },
+    {
+      "mode": "Adjusted Rail",
+      "apc_boardings": 68493991,
+      "paid_boardings": 29845958.77,
+      "evasion_rate": 0.5642543479,
+      "notes": "When we excluded the in-gate transfer stations, we lowered the total rail ridership in the calculation. So to get the systemwide evasion rate, we have to adjust the rail totals back up to the total for all stations. In other words, we're assuming that on average, the excluded stations had the same evasion rate as the included stations and adjusting the totals as if they were in the calculation. This appropriately weights the relative ridership of Metro's bus and rail systems."
+    },
+    {
+      "mode": "Total",
+      "apc_boardings": 286960426.1,
+      "paid_boardings": 142880444.8,
+      "evasion_rate": 0.5020900732,
+      "notes": "In 2025, 50% of boardings on LA Metro were unpaid."
+    },
+    {
+      "mode": "Attention: This is a roughly half.",
+      "apc_boardings": null,
+      "paid_boardings": null,
+      "evasion_rate": null,
+      "notes": ""
+    }
+  ],
+  "sheets_available": [
+    "Evasion Rate",
+    "Methodology",
+    "Free Fare Day Adjustment",
+    "Bus Ridership",
+    "Bus Fare Counts",
+    "Station Fare Counts",
+    "Rail Ridership",
+    "Rail Ridership Raw Data Example"
+  ]
+}

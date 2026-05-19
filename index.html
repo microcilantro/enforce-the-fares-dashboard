@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, viewport-fit=cover"
+    />
+    <meta name="theme-color" content="#0b1220" />
+    <title>LA Metro Fare Evasion Dashboard</title>
+    <meta
+      name="description"
+      content="A data-backed estimate of fare evasion on LA Metro, part of the Enforce the Fares campaign."
+    />
+    <link rel="stylesheet" href="assets/styles.css" />
+    <link rel="icon" href="data:," />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="topbar-inner">
+        <h1>LA Metro Fare Evasion</h1>
+        <p class="muted" id="updated">Loading…</p>
+      </div>
+    </header>
+
+    <main id="app">
+      <section class="hero card" id="hero" aria-label="Headline">
+        <p class="eyebrow">2025 systemwide fare evasion</p>
+        <p class="hero-value" id="hero-rate">—</p>
+        <p class="hero-sub" id="hero-sub"></p>
+      </section>
+
+      <section class="kpis" id="kpis" aria-label="Mode breakdown"></section>
+
+      <section class="card" aria-label="Bus vs Rail">
+        <h2>Bus vs Rail</h2>
+        <div class="chart-wrap"><canvas id="modeChart"></canvas></div>
+      </section>
+
+      <section class="card" aria-label="Top bus routes by evasion rate">
+        <div class="card-head">
+          <h2>Top 10 bus routes by evasion rate</h2>
+          <p class="muted small">Routes with at least 100k boardings</p>
+        </div>
+        <div class="chart-wrap tall"><canvas id="busChart"></canvas></div>
+      </section>
+
+      <section class="card" aria-label="Top rail stations by evasion rate">
+        <div class="card-head">
+          <h2>Top 10 rail/BRT stations by evasion rate</h2>
+        </div>
+        <div class="chart-wrap tall"><canvas id="railChart"></canvas></div>
+      </section>
+
+      <section class="card" aria-label="Full data tables">
+        <h2>All routes &amp; stations</h2>
+        <div class="tabs" role="tablist">
+          <button class="tab active" data-tab="bus" role="tab">Bus</button>
+          <button class="tab" data-tab="rail" role="tab">Rail / BRT</button>
+        </div>
+        <div class="table-scroll" id="table-bus" role="tabpanel"></div>
+        <div class="table-scroll hidden" id="table-rail" role="tabpanel"></div>
+      </section>
+
+      <section class="card" aria-label="About">
+        <h2>About</h2>
+        <p id="about-blurb" class="prose"></p>
+        <p class="prose">
+          Methodology and source data are in the
+          <a
+            href="https://docs.google.com/spreadsheets/d/110n8HRGZQgfabsfXCt2EG4Lsv4fAEAm8EVLq82ttkU4/edit?gid=215699746"
+            rel="noopener"
+            target="_blank"
+            >source spreadsheet</a
+          >. Learn more at
+          <a href="https://www.enforcethefares.org" rel="noopener" target="_blank"
+            >enforcethefares.org</a
+          >.
+        </p>
+      </section>
+    </main>
+
+    <footer class="foot muted">
+      By Alex Davis · Enforce the Fares
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+    <script src="assets/app.js" type="module"></script>
+  </body>
+</html>
